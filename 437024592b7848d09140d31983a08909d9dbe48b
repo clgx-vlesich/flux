@@ -1,0 +1,1 @@
+{"jobID":"b24e78df-9ef2-0dba-c746-3f25ba2e976a","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"lasample:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
